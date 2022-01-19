@@ -31,7 +31,6 @@
     }
   ],
   "memory": "512",
-  "taskRoleArn": "arn:aws:iam::897125119680:role/color-app-ecs-task",
   "compatibilities": ["EC2", "FARGATE"],
   "family": "color-app-task-def",
   "requiresCompatibilities": ["FARGATE"],
