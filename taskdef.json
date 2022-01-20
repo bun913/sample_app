@@ -1,5 +1,6 @@
 {
   "executionRoleArn": "arn:aws:iam::897125119680:role/color-app-ecs-task-execution",
+  "taskRoleArn": "arn:aws:iam::897125119680:role/color-app-ecs-task",
   "containerDefinitions": [
     {
       "logConfiguration": {
